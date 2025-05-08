@@ -7,15 +7,15 @@ Front-End Web and Back-End Web
 <table>
   <tr>
     <td>Team ID</td>
-    <td>C624-PS108</td>
+    <td>CC25-CF016</td>
   </tr>
   <tr>
     <td>Project Name</td>
-    <td>Cleaning4Solo</td>
+    <td>Kanto</td>
   </tr>
   <tr>
     <td>Project Theme</td>
-    <td>Green Economy dan Green Jobs</td>
+    <td>Social, Culture, and Tourism</td>
   </tr>
 </table>
 
@@ -25,6 +25,8 @@ Front-End Web and Back-End Web
 
 | Name | Student ID | Role | LinkedIn | Github |
 | :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
-| `Muhammad Miftahul Huda` | `F3586YB142` | `Full-Stack Web Dev` | [Click Me](http://linkedin.com/in/muhammad-miftahul-huda/) | [Click Me](https://github.com/eunoiamo) |
-| `Muhammad Iqbal Firmansyah` | `F3326YB182` | `Full-Stack Web Dev` | [Click Me](https://www.linkedin.com/in/labqii/) | [Click Me](https://github.com/LabQii) |
-| `Darren Oswaldo Tanjaya` | `F2936YB327 ` | `Full-Stack Web Dev` | [Click Me](https://www.linkedin.com/in/darren-oswaldo-tanjaya/) | [Click Me](https://github.com/darrenoswaldo) |
+| `Imam Arishandi Irfanto` | `FC332D5Y0902` | `Full-Stack Web Dev` | [Click Me](https://www.linkedin.com/in/imamarishandi/) | [Click Me](https://github.com/XRaxs) |
+| `Andre Alfa Jones Rawang` | `FC004D5Y0989` | `Full-Stack Web Dev` | [Click Me](https://www.linkedin.com/in/labqii/) | [Click Me](https://github.com/LabQii) |
+| `Mochammad Syahrul Abidin` | `MC332D5Y1816 ` | `Machine Learning Enginer` | [Click Me](https://www.linkedin.com/in/syahrulabidin/) | [Click Me](https://github.com/Syahrulokt) |
+| `Anju Anjannah` | `MC013D5X0665` | `Machine Learning Enginer` | [Click Me](https://www.linkedin.com/in/anju-anjannah-4a6000218/) | [Click Me](https://github.com/anjunjnnh) |
+| `Najwa Ratna Dewanty` | `MC296D5X0889` | `Machine Learning Enginer` | [Click Me](https://www.linkedin.com/in/darren-oswaldo-tanjaya/) | [Click Me](https://github.com/darrenoswaldo) |
