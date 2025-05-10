@@ -1,6 +1,6 @@
 # Capstone Project for DicodingXDBSFoundation 2025
 
-![Website Preview](https://github.com/cleaning4solo/.github/blob/main/project-cleaning4solo.png?raw=true?raw=true)
+![Website Preview](-)
 
 Front-End Web and Back-End Web
 
@@ -21,7 +21,7 @@ Front-End Web and Back-End Web
 
 #### Members
 
-![Team Members](https://github.com/cleaning4solo/.github/blob/main/team-cleaning4solo.png?raw=true?raw=true)
+![Team Members](-)
 
 | Name | Student ID | Role | LinkedIn | Github |
 | :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
